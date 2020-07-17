@@ -1,0 +1,14 @@
+.header {
+  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593180572517&di=d7d6082bde46aff8ea71b5e90e909ebf&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F01%2F29%2F62%2F79bOOOPIC46.jpg") none repeat scroll !important;
+}
+.sidebar {
+  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593267586838&di=8b18821df47202cb254e70685840338a&imgtype=0&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D1109234041%2C2441900584%26fm%3D214%26gp%3D0.jpg");
+  background-size: 400px 380px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.sidebar p,
+.sidebar span,
+.sidebar a {
+  color: #ad5389;
+}
