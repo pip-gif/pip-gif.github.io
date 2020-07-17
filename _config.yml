@@ -7,9 +7,9 @@ title: codemperor
 subtitle: ''
 description: ''
 keywords:
-author: Dio Joestar
-language: en
-timezone: ''
+author: codemperor
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -92,8 +92,18 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+#RSS订阅
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: 
 ## Themes: https://hexo.io/themes/
-theme:  hexo-theme-hueman
+theme:  hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -101,3 +111,13 @@ deploy:
   type: git
   repo: https://github.com/pip-gif/pip-gif.github.io.git
   branch: master
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+excerpt:
+ depth: 1
+ excerpt_excludes: []
+ more_excludes: []
+hideWholePostExcerpts: true
