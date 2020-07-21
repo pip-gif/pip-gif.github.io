@@ -21,7 +21,12 @@
   <entry>
     <title>Java</title>
     <url>/2020/07/18/Java/</url>
-    <content><![CDATA[<h3 id="HELLO-WORLD"><a href="#HELLO-WORLD" class="headerlink" title="HELLO WORLD"></a><strong>HELLO WORLD</strong></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public class Test&#123;</span><br><span class="line">           public static void main(String [] args)&#123;</span><br><span class="line">                    System.out.println(&quot;HelloWord!&quot;);</span><br><span class="line">           &#125;</span><br><span class="line"> </span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<img src="https://s1.ax1x.com/2020/07/21/UI7LFO.jpg" alt="UI7LFO.jpg" border="0" />
+
+
+<h3 id="HELLO-WORLD"><a href="#HELLO-WORLD" class="headerlink" title="HELLO WORLD"></a><strong>HELLO WORLD</strong></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public class Test&#123;</span><br><span class="line">           public static void main(String [] args)&#123;</span><br><span class="line">                    System.out.println(&quot;HelloWord!&quot;);</span><br><span class="line">           &#125;</span><br><span class="line"> </span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
+
+ <img src="https://s1.ax1x.com/2020/07/21/UILs9U.png" alt="UILs9U.png" border="0" />
 ]]></content>
       <categories>
         <category>Web</category>
