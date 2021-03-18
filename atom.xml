@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://codemperor.cn/"/>
-  <updated>2020-07-21T07:51:35.041Z</updated>
+  <updated>2021-03-18T11:47:37.203Z</updated>
   <id>http://codemperor.cn/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://codemperor.cn/2021/03/18/test/"/>
+    <id>http://codemperor.cn/2021/03/18/test/</id>
+    <published>2021-03-18T11:47:37.203Z</published>
+    <updated>2021-03-18T11:47:37.203Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Java</title>
